@@ -2,6 +2,10 @@
 i am paragraph 1 with the frist heading.
  
 # I AM SECOND HEADING
+i am paragraph 1 with the second heading.
+
 # I AM THIRD HEADING
+i am paragraph 1 with the third heading.
+
 # I AM FOUTH HEADING
 # I AM FIFTH HEADING
